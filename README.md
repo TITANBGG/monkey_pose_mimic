@@ -1,7 +1,11 @@
 # monkey_pose_mimic
 🐒 Pose Mimic – MediaPipe + OpenCV
+
+
 https://www.linkedin.com/feed/update/urn:li:activity:7397973004179279872/
 
+
+https://youtu.be/BRIdBDgpVK8
 
 This project is a fun, real-time pose mimic demo.
 It tracks human body movements from the webcam and maps them to a monkey character on the screen.
